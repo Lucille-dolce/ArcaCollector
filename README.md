@@ -6,8 +6,7 @@
 
 # ArcaCollector 설치 가이드 🚀
 
-이 가이드는 오픈소스 브라우저 확장 프로그램 **Violentmonkey**를 수동으로 설치한 후, ArcaCollector를 추가하는 방법을 설명해요.<br/>
-아주 쉽고 빠르게 따라할 수 있으니 걱정하지 마세요! 😄<br/><br/>
+이 가이드는 오픈소스 브라우저 확장 프로그램 **Violentmonkey**를 수동으로 설치한 후, ArcaCollector를 추가하는 방법을 설명해요. 아주 쉽고 빠르게 따라할 수 있으니 걱정하지 마세요! 😄<br/><br/>
 
 ## 1. Violentmonkey 수동 설치하기<br/><br/>
 
