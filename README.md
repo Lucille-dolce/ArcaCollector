@@ -6,7 +6,7 @@
 
 # ArcaCollector 설치 가이드 🚀
 
-이 가이드는 오픈소스 브라우저 확장 프로그램 **Violentmonkey**를 수동으로 설치한 후, ArcaCollector를 추가하는 방법을 설명해요. 아주 쉽고 빠르게 따라할 수 있으니 걱정하지 마세요! 😄<br/><br/><br/>
+이 가이드는 오픈소스 브라우저 확장 프로그램 **Violentmonkey**를 수동으로 설치한 후, ArcaCollector를 추가하는 방법을 설명해요. 아주 쉽고 빠르게 따라할 수 있으니 걱정하지 마세요! 😄<br/><br/>
 
 ## 1. Violentmonkey 수동 설치하기<br/><br/>
 
@@ -22,7 +22,8 @@
 3. 화면 상단의 **"압축해제된 확장 프로그램 로드"** 버튼을 클릭하고, 다운로드 받은 Violentmonkey 파일의 압축을 먼저 풀어둔 폴더를 선택해요.
 4. 정상적으로 설치되면 브라우저 확장 프로그램 목록에 **Violentmonkey**가 추가된 것을 확인할 수 있어요. 🎉
 
-> **주의:** Firefox나 다른 브라우저를 사용 중이라면, 해당 브라우저의 확장 프로그램 개발자 모드 활성화 방법을 참고해 주세요.<br/><br/><br/>
+> **주의:** Firefox나 다른 브라우저를 사용 중이라면, 해당 브라우저의 확장 프로그램 개발자 모드 활성화 방법을 참고해 주세요.
+<br/><br/>
 
 ## 2. ArcaCollector 설치하기
 1. 브라우저 상단의 **Violentmonkey 아이콘**을 클릭한 후 메뉴에서 **"URL에서 설치"** 항목을 선택해요.
@@ -32,8 +33,9 @@
    https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/main/ArcaCollector.user.js
    ```
 
-3. 주소를 입력한 후 **"설치"** 버튼을 클릭하면, ArcaCollector 확장 프로그램이 자동으로 설치됩니다! 🎉<br/><br/><br/>
+3. 주소를 입력한 후 **"설치"** 버튼을 클릭하면, ArcaCollector 확장 프로그램이 자동으로 설치됩니다! 🎉<br/><br/>
 
 ## 3. 설치 확인하기
 1. 설치가 완료되면 브라우저 상단의 **Violentmonkey 아이콘**이나 관리 페이지에서 ArcaCollector가 추가된 것을 확인할 수 있어요.
 2. 문제가 없다면 바로 ArcaCollector를 사용할 수 있습니다!
+<br/><br/>
