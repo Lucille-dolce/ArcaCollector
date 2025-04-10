@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         (미완성) 아카라이브 게시물 백업 도구
 // @namespace    https://arca.live/b/lucille
-// @version      0.4
+// @version      0.6
 // @description  현재 보고 있는 아카라이브 게시물의 내용, 이미지, 댓글을 백업합니다
 // @author       루실
 // @downloadURL  https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/main/ArcaCollector.user.js
