@@ -4,8 +4,8 @@
 // @version      0.4
 // @description  현재 보고 있는 아카라이브 게시물의 내용, 이미지, 댓글을 백업합니다
 // @author       루실
-// @downloadURL  https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/raw/refs/heads/main/ArcaCollector.user.js
-// @updateURL    https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/raw/refs/heads/main/ArcaCollector.user.js
+// @downloadURL  https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/main/ArcaCollector.user.js
+// @updateURL    https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/main/ArcaCollector.user.js
 // @match        *://arca.live/*
 // @grant        GM_download
 // @grant        GM_setValue
