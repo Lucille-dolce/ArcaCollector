@@ -2,10 +2,10 @@
 // @name         (미완성) 아카라이브 게시물 백업 도구
 // @namespace    https://arca.live/b/lucille
 // @version      0.4
-// @description  현재 보고 있는 아카라이브 게시물의 내용, 이미지, 댓글을 백업합니다_업데이트기능 테스트용 텍스트
+// @description  현재 보고 있는 아카라이브 게시물의 내용, 이미지, 댓글을 백업합니다
 // @author       루실
-// @downloadURL  https://github.com/Lucille-dolce/ArcaCollector/raw/refs/heads/main/ArcaCollector.user.js
-// @updateURL    https://github.com/Lucille-dolce/ArcaCollector/raw/refs/heads/main/ArcaCollector.user.js
+// @downloadURL  https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/raw/refs/heads/main/ArcaCollector.user.js
+// @updateURL    https://raw.githubusercontent.com/Lucille-dolce/ArcaCollector/raw/refs/heads/main/ArcaCollector.user.js
 // @match        *://arca.live/*
 // @grant        GM_download
 // @grant        GM_setValue
